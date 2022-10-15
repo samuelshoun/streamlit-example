@@ -8,7 +8,7 @@ st.write('minor change right here')
 st.markdown('``MORE CHANGES``')
 
 st.latex('''
-    y = a + b1x1
+    y = a + b_1x_1
     ''')
 
 # comment
